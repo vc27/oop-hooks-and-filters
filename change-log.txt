@@ -1,6 +1,7 @@
 == 1.4 ==
 03.14.13
 - Move set_options out of after_setup_theme
+- added ClassName.php as basic example
 
 == 1.3 ==
 02.16.13
