@@ -1,0 +1,8 @@
+/* 
+File Name style.css
+License GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+#################################################################################################### */
+
+.transformer-image { position:fixed; right:15px; z-index:500; box-shadow: 0 1px 3px rgba(0,0,0,0.5); -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5); }
+.transformer-unicron { top:50px; }
+.transformer-shockwave { bottom:50px; }
